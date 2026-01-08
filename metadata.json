@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sjaj & Red - Platforma za Usluge Čišćenja",
+  "description": "Najveća domaća platforma za pronalaženje provjerenih stručnjaka za čišćenje domova, ureda i posebnih prostora.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
